@@ -3,7 +3,7 @@ var urlEncoded = bodyParser.urlencoded({extended:false});
 var mongoose = require('mongoose');
 
 
-mongoose.connect("mongodb://blog:blog@ds153400.mlab.com:53400/blog");
+mongoose.connect("mongodb://<dbname>:<password>@ds153400.mlab.com:53400/blog");
 
 var blogSchema = new mongoose.Schema({
     title:String,
