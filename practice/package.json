@@ -1,0 +1,16 @@
+{
+  "name": "node_react_mongo_selenium",
+  "version": "1.0.0",
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam varius sagittis auctor. Pellentesque congue eros eu ante faucibus, et pretium arcu pellentesque. Vivamus et urna tellus. Nunc tempus eros non felis gravida sagittis. Suspendisse potenti. Duis ac commodo lectus, eu vehicula arcu. Phasellus rutrum sem id sapien posuere congue. Donec maximus mollis dolor quis aliquet. Nunc vestibulum leo et luctus iaculis. Etiam lacus erat, eleifend vel nisi eget, varius varius nulla. Morbi suscipit dignissim tortor, quis posuere nisi fermentum non. Curabitur a risus a nisi mattis volutpat. Donec gravida bibendum mauris, at accumsan massa tempus quis. Mauris massa sapien, venenatis quis tincidunt ac, ornare quis nunc.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2"
+  }
+}

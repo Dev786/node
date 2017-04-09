@@ -1,0 +1,105 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background: skyblue;
+}
+
+header{
+    background: black;
+    height: 60px;
+    widows: 100%;
+    margin: 0x;
+    padding: 0px;
+    text-align: center;
+}
+
+#main_heading{
+    font-size: 30px;
+    color: white;
+    margin: 0px;
+    padding: 0px;
+    border: none;
+    position: absolute;
+    margin-left: 45%;
+    text-align: center;
+    margin-top: 1%;
+}
+
+#error_heading{
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#error_para{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#div_login{
+    margin-top: 0px;
+    text-align: center;
+    background:deepskyblue;
+    padding: 6px;
+}
+
+label{
+    margin: 20px;
+}
+
+
+#name{
+    width: 100%;
+    padding: 12px 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius:4px;
+    box-sizing: border-box;
+
+}
+
+#addData{
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+ul{
+    list-style-type: none;
+    padding:0px;
+    margin: 0px;
+}
+li{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    cursor: pointer;
+    background: violet;
+
+    letter-spacing: 1px;
+}
+li:hover{
+    background: rgba(0,0,0,0.2);
+}
+#all_blogs{
+    margin-top: 2px;
+}
+
+#title{
+    text-decoration: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+    text-transform: capitalize;
+}
+
+#likes{
+    float: right;
+
+}
